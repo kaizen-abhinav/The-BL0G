@@ -10,9 +10,7 @@
 
 It's a pretty simple and standard blog, and thats pretty much everything in there.
 
-I used the gatsby cli to make this blog site.
-
-It uses javascript, CSS and typescript
+It uses Javascript, CSS and typescript
 
 Hosted on vercel
 
