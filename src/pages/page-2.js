@@ -15,7 +15,7 @@ const SecondPage = () => (
       src="https://cdn.discordapp.com/attachments/916339247059959889/916619594628726804/unknown.png"
       width={300}
       quality={95}
-      formats={["auto", "webp", "avif"]}
+      formats={["auto", "webp", "avif"]}git 
       alt="A Gatsby astronaut"
       style={{ marginBottom: `1.45rem` }}
     />
