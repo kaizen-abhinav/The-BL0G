@@ -21,7 +21,7 @@ const IndexPage = () => (
     <p><b>DONT FORGOR💀 TO SHARE</b>.
     </p>
 
-    <p>quote of the day-"you better scramble like an egg 'fore I fold you like an omlette"-burrito san 2021</p>
+    <p>quote of the day- "you better scramble like an egg 'fore I fold you like an omlette" -burrito san 2021</p>
     <br></br>
     <p>------------------------------------------------------------------------------------------------------</p>
 

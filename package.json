@@ -1,6 +1,6 @@
 {
-  "name":"blog-ze-komdy",
-  "private": true,
+  "name":"TheKomdyBlog2021",
+  "private": false,
   "description": "A blog where i post komedy",
   "version": "0.1.0",
   "author": "Abhinav Varghese Abraham <abhinavthottunkal4213@gmail.com>",

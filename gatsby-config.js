@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Blog ze komdy`,
+    title: `The Komdy Blog 2021 😂`,
     description: `Read komedy posts on this blog`,
     author: `@gatsbyjs`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
