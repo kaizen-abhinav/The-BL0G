@@ -23,7 +23,7 @@ const IndexPage = () => (
 
     <p>quote of the day- "you better scramble like an egg 'fore I fold you like an omlette" -burrito san 2021</p>
     <br></br>
-    <p>------------------------------------------------------------------------------------------------------</p>
+    <p>----------------------------------------------------</p>
 
     
     <p>
@@ -31,7 +31,7 @@ const IndexPage = () => (
       <Link to="/page-2/">1.The two kinds of indian students</Link> <br />
     </p>
     <br></br>
-    ------------------------------------------------------------------------------------------------------
+    ------------------------------------------------------
     <p><i>Contact me: its.abhinav69@gmail.com</i></p>
   </Layout>
 )
