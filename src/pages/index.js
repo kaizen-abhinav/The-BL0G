@@ -32,8 +32,6 @@ const IndexPage = () => (
     </p>
     <br></br>
     ------------------------------------------------------------------------------------------------------
-    <p><i>pls note that this blog is currently under development so pls forgive me for the crappy CSS, layout and fonts</i></p>
-    ------------------------------------------------------------------------------------------------------
     <p><i>Contact me: its.abhinav69@gmail.com</i></p>
   </Layout>
 )
