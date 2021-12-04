@@ -25,25 +25,16 @@ const IndexPage = () => (
     <br></br>
     <p>------------------------------------------------------------------------------------------------------</p>
 
-    <p><i>we have achieveth komdy</i></p>
     
-    <p><i>you too have now achieved komdy</i></p>
-    <StaticImage
-      src="../images/komdy2.jpg"
-      width={300}
-      quality={95}
-      formats={["auto", "webp", "avif"]}
-      alt="A Gatsby astronaut"
-      style={{ marginBottom: `1.45rem` }}
-    />
     <p>
-      <p><h2><u>CLICK THE LINK BELOW FOR KOMDY</u></h2></p>
-      <Link to="/page-2/">The two kinds of indian students</Link> <br />
+      <p><h2><u>POSTS</u></h2></p>
+      <Link to="/page-2/">1.The two kinds of indian students</Link> <br />
     </p>
     <br></br>
     ------------------------------------------------------------------------------------------------------
-    <p><i>pls note that this blog is currently under development so pls forgive me for the crappy css, layout and fonts</i></p>
+    <p><i>pls note that this blog is currently under development so pls forgive me for the crappy CSS, layout and fonts</i></p>
     ------------------------------------------------------------------------------------------------------
+    <p><i>Contact me: its.abhinav69@gmail.com</i></p>
   </Layout>
 )
 
