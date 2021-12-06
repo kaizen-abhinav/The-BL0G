@@ -13,7 +13,7 @@ const IndexPage = () => (
     </p>
     <br></br>
     ------------------------------------------------------
-    <p><i>Contact me: its.abhinavthottunkal.tech</i></p>
+    <p><i>Contact me: its@milleneon0069.ninja/its@abhinavthottunkal.tech</i></p>
   </Layout>
 )
 
